@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arrtea
 - 👀 Interested in Everything computers
-- 🌱 currently learning Coputer sciences
+- 🌱 currently learning Computer sciences
 - 📫 How to reach me arpit.k.21.04@gmail.com
 
 <!---
